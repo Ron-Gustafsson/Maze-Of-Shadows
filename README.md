@@ -79,7 +79,10 @@ Kiitos kahville, virhekoodeille ja pimeydelle.
 Jos eksyt pimeyteen… paina F.  
 – Muinainen robottiviisaus 🤖  
 
+---
 --- **And same for english** ---
+
+---
 
 # 🌒 Maze of Shadows 🕹️  
 *Because who needs light anyway?*  
