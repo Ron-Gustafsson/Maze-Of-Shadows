@@ -89,6 +89,7 @@ Jos eksyt pimeyteen… paina F.
 
 # 🌒 Maze of Shadows 🕹️ 
 🎮 **[➡️ Download the game here (v1.0)](https://github.com/Ron-Gustafsson/Maze-Of-Shadows/releases/tag/V1.0)**  
+---
 
 ---
 *Because who needs light anyway?*  
