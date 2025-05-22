@@ -1,5 +1,5 @@
 # 🌒 Maze of Shadows 🕹️  
-*Koska kuka nyt valoa kaipaisi?*
+*Koska kuka nyt valoa kaipaisi?*  
 Retrohenkinen sokkelopeli, jossa näet vain vähän, kuolet usein ja taskulamppu on paras ystäväsi.
 
 > 🧱 Kerää kolikot. Vältä hirviöt. Älä itke, kun kuolet.
