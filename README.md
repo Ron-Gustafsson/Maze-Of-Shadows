@@ -80,7 +80,7 @@ Jos eksyt pimeyteen… paina F.
 – Muinainen robottiviisaus 🤖  
 
 ---
---- **And same for english** ---
+**And same for english** 
 
 ---
 
