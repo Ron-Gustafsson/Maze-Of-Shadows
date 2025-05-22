@@ -14,7 +14,7 @@ Retrohenkinen sokkelopeli, jossa näet vain vähän, kuolet usein ja taskulamppu
 - Jokainen kolikko lasketaan
 - Ja robotit pelkäävät sekä liikkuvia että liikkumattomia hirviöitä
 
-Tämä ei ole mikään perusdungeon – tämä on kuin Tetris kohtaisi Silent Hillin lyhyessä sähkökatkossa.
+Tämä ei ole mikään perusdungeon – tämä on kuin Tetris kohtaisi Silent Hillin pitkässä sähkökatkossa.
 
 ---
 
@@ -54,6 +54,8 @@ Tämä ei ole mikään perusdungeon – tämä on kuin Tetris kohtaisi Silent Hi
 Tämä projekti on lisensoitu MIT-lisenssillä.
 Voit käyttää, kopioida, forkata, parantaa, rikkoa, korjata – kunhan et syytä minua, jos kaikki menee pieleen.
 
+---
+
 ## 🤝 Osallistu kehitykseen!
 Onko sinulla loistava idea?
 Haluaisitko tehdä pelistä vieläkin eeppisemmän?
@@ -64,11 +66,15 @@ Tai ehkä suunnittelit juuri sellaisen kentän, joka rikkoo pelaajien sielun?
 
 Kaikki ideat, kritiikit, bugiraportit, kenttäideat ja kahvinhimoiset pull requestit ovat lämpimästi tervetulleita!
 
+---
+
 ## 🙏 Tekijä
-Ron Gustafsson 2025
-Toteutettu osana Python-ohjelmoinnin opintoja.
-Kiitos kahville, virhekoodeille ja pimeydelle.
+Ron Gustafsson 2025  
+Toteutettu osana Python-ohjelmoinnin opintoja.  
+Kiitos kahville, virhekoodeille ja pimeydelle.  
+
+---
 
 ## 🎯 Viimeiset sanat
-Jos eksyt pimeyteen… paina F.
+Jos eksyt pimeyteen… paina F.  
 – Muinainen robottiviisaus 🤖
