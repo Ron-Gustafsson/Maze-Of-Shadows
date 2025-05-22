@@ -1,4 +1,7 @@
-# 🌒 Maze of Shadows 🕹️  
+# 🌒 Maze of Shadows 🕹️
+🎮 **[➡️ Lataa peli täältä (v1.0)](https://github.com/Ron-Gustafsson/Maze-Of-Shadows/releases/tag/V1.0)**
+---
+
 *Koska kuka nyt valoa kaipaisi?*  
 Retrohenkinen sokkelopeli, jossa näet vain vähän, kuolet usein ja taskulamppu on paras ystäväsi.
 
@@ -84,7 +87,10 @@ Jos eksyt pimeyteen… paina F.
 
 ---
 
-# 🌒 Maze of Shadows 🕹️  
+# 🌒 Maze of Shadows 🕹️ 
+🎮 **[➡️ Download the game here (v1.0)](https://github.com/Ron-Gustafsson/Maze-Of-Shadows/releases/tag/V1.0)**  
+
+---
 *Because who needs light anyway?*  
 A retro-style maze game where you see very little, die a lot, and your flashlight is your best friend.
 
