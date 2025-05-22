@@ -77,4 +77,94 @@ Kiitos kahville, virhekoodeille ja pimeydelle.
 
 ## 🎯 Viimeiset sanat
 Jos eksyt pimeyteen… paina F.  
-– Muinainen robottiviisaus 🤖
+– Muinainen robottiviisaus 🤖  
+
+--- **And same for english** ---
+
+# 🌒 Maze of Shadows 🕹️  
+*Because who needs light anyway?*  
+A retro-style maze game where you see very little, die a lot, and your flashlight is your best friend.
+
+🧱 Collect coins. Avoid monsters. Don’t cry when you die.
+
+---
+
+## 🔍 What is this game?
+
+**Maze of Shadows** is a Python + Pygame labyrinth adventure where:
+
+- You can barely see anything (unless you press **F**)
+- Every coin matters
+- And robots are afraid of both moving and still monsters
+
+This isn't your average dungeon — it's like Tetris met Silent Hill during a prolonged blackout.
+
+---
+
+## 🎮 Controls
+
+| Key         | Action                                              |
+|-------------|-----------------------------------------------------|
+| ← ↑ → ↓     | Move like your life depends on it (because it does) |
+| `F`         | Flashlight: temporarily reveals the maze            |
+| `F1`        | Restart the level (no drama)                        |
+| `ESC`       | Exit the game (with drama)                          |
+| `S`         | Skip level (dev only!)                              |
+
+---
+
+## 🧠 Features
+
+✅ Retro-style tile graphics (pixel love)  
+✅ Light/darkness mechanic (you'll miss it when it's gone)  
+✅ Goosebumps guaranteed when meeting a monster  
+✅ Functional menu system (yes, really)  
+✅ And of course: you’ll die a lot (thankfully you have 5 lives!)
+
+---
+
+## 🧰 Technologies
+
+- 🐍 Python 3.12  
+- 🎮 Pygame  
+- 💡 GitHub Copilot (disabled, seriously!)  
+- 💖 ChatGPT (my best friend, used when needed!)  
+- ☕ Unhealthy amount of coffee
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, copy, fork, improve, break, or fix it — just don’t blame me when everything goes wrong.
+
+---
+
+## 🤝 Contribute!
+
+Got a brilliant idea?  
+Want to make the game even more epic?  
+Or maybe you've designed a level so evil it makes players cry?
+
+📬 **Send feedback, maps, or code suggestions by email:**  
+👉 ron.gustafsson@gmail.com
+
+All ideas, feedback, bug reports, level designs, and caffeine-fueled pull requests are warmly welcome!
+
+---
+
+## 🙏 Author
+
+**Ron Gustafsson, 2025**  
+Created as part of Python programming studies.  
+Thanks to coffee, error codes, and darkness.
+
+---
+
+## 🎯 Final Words
+
+> *If you’re lost in the shadows… press F.*  
+> – Ancient Robot Wisdom 🤖
+
+---
+
